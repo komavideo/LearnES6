@@ -27,7 +27,7 @@ console.log(num.toString(5)); //5进制？嘿嘿
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnES6
+https://github.com/komavideo/LearnES6
 
 ## 小马视频频道
 
