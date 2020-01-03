@@ -33,7 +33,7 @@ for(let tmp of countdown(5)){
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnES6
+https://github.com/komavideo/LearnES6
 
 ## 小马视频频道
 
