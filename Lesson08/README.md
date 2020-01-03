@@ -68,7 +68,7 @@ console.log(JSON.stringify(user)); //{"name":"Curry","age":29}
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnES6
+https://github.com/komavideo/LearnES6
 
 ## 小马视频频道
 
