@@ -22,7 +22,7 @@ console.log(sum(1,2,3,4,5,6,7,8,9,10));
 
 ## 课程文件
 
-https://gitee.com/komavideo/LearnES6
+https://github.com/komavideo/LearnES6
 
 ## 小马视频频道
 
